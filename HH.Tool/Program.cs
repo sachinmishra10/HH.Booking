@@ -6,6 +6,7 @@ namespace HH.Tool
     {
         static void Main(string[] args)
         {
+            //Just check Fetch Functionlity of Git
             Console.WriteLine("Hello World!!!");
         }
     }

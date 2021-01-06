@@ -7,6 +7,8 @@ namespace HH.Tool
         static void Main(string[] args)
         {
             //Just check Fetch Functionlity of Git
+            //Merge Functionlity
+            //Second Merge
             Console.WriteLine("Hello World!!!");
         }
     }
